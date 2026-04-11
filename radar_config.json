@@ -4,7 +4,9 @@
     "name": "SenseVoice 极速多语版",
     "version": "2024-07-17",
     "downloadMethod": "ZIP",
-    "url": "https://github.com/ailinician/VoiceInput-Models/releases/download/v1.0.0/sensevoice-2024-07-17.zip"
+    "url": "https://github.com/ailinician/VoiceInput-Models/releases/download/v1.0.0/sensevoice-2024-07-17.zip",
+    "hf_search_query": "sherpa-onnx-sense-voice",
+    "hf_target_files": ["model.int8.onnx", "tokens.txt"]
   },
   {
     "id": "qwen3-asr-0.6b-int8",
