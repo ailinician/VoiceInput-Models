@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sensevoice-small",
+    "name": "SenseVoice 极速多语版",
+    "version": "2024-07-17",
+    "downloadMethod": "ZIP",
+    "url": "https://github.com/ailinician/VoiceInput-Models/releases/download/v1.0.0/sensevoice-2024-07-17.zip"
+  },
+  {
+    "id": "qwen3-asr-0.6b-int8",
+    "name": "Qwen3 旗舰纯离线版",
+    "version": "2026-03-25",
+    "downloadMethod": "ZIP",
+    "url": "https://github.com/ailinician/VoiceInput-Models/releases/download/v1.0.0/qwen3-2026-03-25.zip"
+  }
+]
